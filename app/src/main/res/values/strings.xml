@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecyclerviewExapandable</string>
+    <string name="lbl_name">Name</string>
+    <string name="lbl_age">Age</string>
+    <string name="lbl_people_name">People name</string>
+    <string name="lbl_people_age">People Age</string>
+    <string name="lbl_open_detail">Open Detail</string>
+    <string name="lbl_status">Status</string>
+    <string name="lbl_description">Description</string>
+</resources>
